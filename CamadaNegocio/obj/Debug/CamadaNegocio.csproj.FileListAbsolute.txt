@@ -1,0 +1,11 @@
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaNegocio\bin\Debug\CamadaNegocio.dll
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaNegocio\bin\Debug\CamadaNegocio.pdb
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaNegocio\bin\Debug\CamadaDados.dll
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaNegocio\bin\Debug\MySql.Data.dll
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaNegocio\bin\Debug\CamadaDados.pdb
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaNegocio\bin\Debug\MySql.Data.xml
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaNegocio\obj\Debug\CamadaNegocio.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaNegocio\obj\Debug\CamadaNegocio.dll
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaNegocio\obj\Debug\CamadaNegocio.pdb

@@ -1,0 +1,9 @@
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaDados\bin\Debug\MySql.Data.dll
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaDados\bin\Debug\MySql.Data.xml
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaDados\obj\Debug\CamadaDados.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaDados\obj\Debug\CamadaDados.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaDados\obj\Debug\CamadaDados.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaDados\obj\Debug\CamadaDados.pdb

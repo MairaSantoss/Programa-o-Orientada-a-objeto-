@@ -1,0 +1,16 @@
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmProdutos.resources
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\bin\Debug\MySql.Data.dll
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\bin\Debug\MySql.Data.xml
+C:\Users\T-Gamer\Desktop\Maira\trabalho poo\CamadaApresentacao\obj\Debug\CamadaApresentacao.FrmCliente.resources
